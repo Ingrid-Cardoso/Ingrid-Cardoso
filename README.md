@@ -33,5 +33,5 @@ Sou um apaixonado por ciência de dados e engenharia de machine learning, sempre
 Vamos nos conectar e colaborar! Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para qualquer dúvida ou oportunidade.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/ingridcadu/)
-[![Whatsapp](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](https://api.whatsapp.com/send?phone=+5521981010366)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?&logo=WhatsApp&logoColor=1DA1F2)](https://api.whatsapp.com/send?phone=+5521981010366)
 
