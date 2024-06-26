@@ -1,6 +1,6 @@
-![Banner](URL_DA_SUA_IMAGEM_DE_BANNER_AQUI)
+![Banner](https://github.com/Ingrid-Cardoso/Ingrid-Cardoso/blob/main/Red%20and%20Blue%20Education%20LinkedIn%20Banner.png)
 
-# Olá! 👋
+# Olá, Mundo! 👋
 
 ## "Transformando dados em decisões, uma linha de código de cada vez."
 
