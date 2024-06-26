@@ -25,22 +25,13 @@ Sou um apaixonado por ciência de dados e engenharia de machine learning, sempre
 
 ### Projetos em Destaque
 
-1. [**Análise de Sentimentos em Redes Sociais**](URL_DO_PROJETO_1)
-   - Um modelo de análise de sentimentos para tweets utilizando NLP e machine learning.
-
-2. [**Previsão de Vendas com Machine Learning**](URL_DO_PROJETO_2)
-   - Projeto que prevê vendas futuras com base em dados históricos utilizando algoritmos de regressão.
-
-3. [**Detecção de Fraude em Transações Bancárias**](URL_DO_PROJETO_3)
-   - Implementação de um sistema de detecção de fraudes financeiras usando técnicas de machine learning.
-
-4. [**Sistema de Recomendação de Filmes**](URL_DO_PROJETO_4)
-   - Desenvolvimento de um sistema de recomendação de filmes baseado em técnicas de collaborative filtering e deep learning.
+1. [**Em desenvolvimento**](URL_DO_PROJETO_1)
+   - O repositório ainda está sem projetos.
 
 ---
 
 Vamos nos conectar e colaborar! Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para qualquer dúvida ou oportunidade.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](URL_DO_SEU_PERFIL_NO_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](URL_DO_SEU_PERFIL_NO_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/ingridcadu/)
+[![Whatsapp](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](https://api.whatsapp.com/send?phone=+5521981010366)
 
